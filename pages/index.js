@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div>
+      <div className={styles.wrapper}>
         <h1 className={styles.title}>Olmadığında yok diyoruz.</h1>
         <h1 className={styles.author}>- ZEON</h1>
       </div>
