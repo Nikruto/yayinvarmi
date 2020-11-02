@@ -7,6 +7,10 @@
   align-items: center;
 }
 
+.wrapper{
+  margin: auto;
+}
+
 .title {
   margin: 0;
   line-height: 1.15;
