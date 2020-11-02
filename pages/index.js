@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <div>
-        <h1 className={styles.title}><q>Olmadığında yok diyoruz.</q></h1>
+        <h1 className={styles.title}>Olmadığında yok diyoruz.</h1>
         <h1 className={styles.author}>- ZEON</h1>
       </div>
     </div>
