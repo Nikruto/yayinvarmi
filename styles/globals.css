@@ -14,3 +14,18 @@ a {
 * {
   box-sizing: border-box;
 }
+
+:root {
+  --color: #ffffff;
+  --background-color: #181818;
+}
+
+/* :root[theme='dark']{
+  --color:#fff;
+  --background-color:#181818;
+} */
+
+body{
+  background-color: var(--background-color);
+  transition: all 0.3s ease-in-out;
+}
